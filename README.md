@@ -52,7 +52,7 @@ runs on synthetic data.
 
 **Reports**
 - Two separate PDFs: one for load, which contains health data, and one for match
-  preparation. The split is deliberate — see *Data protection* below.
+  preparation. The split is deliberate - see *Data protection* below.
 
 ---
 
@@ -117,21 +117,6 @@ that the public demo needs no credentials.
 
 ---
 
-## Data protection
-
-The production version of this tool handles special-category data under Article 9
-GDPR. The design reflects that:
-
-- Players are identified by shirt number, not by name or email, in every table
-  except the squad list
-- Email addresses were removed from the system once they were no longer needed
-- Records of players who leave the squad are deleted rather than retained
-- The load report, which contains health data, is generated separately from the
-  match report so that distribution can be restricted
-- Menstrual cycle tracking exists in the production version by explicit agreement
-  with the club, and is excluded from this public demo
-
----
 
 ## Architecture
 
