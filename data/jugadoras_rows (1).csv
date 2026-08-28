@@ -1,0 +1,25 @@
+id,equipo_id,dorsal,nombre,nombre_corto,posicion,activa
+1,1,1,Aike Moreno,Aike,Por,true
+2,1,13,Blair Sanchís,Blair,Por,true
+3,1,25,Quinn Ferrer,Quinn,Por,true
+4,1,2,Alex Ribera,Alex,Def,true
+5,1,3,Cruz Iglesias,Cruz,Def,true
+6,1,4,Darcy Peris,Darcy,Def,true
+7,1,5,Gael Montalt,Gael,Def,true
+8,1,12,Kin Bautista,Kin,Def,true
+9,1,15,Noa Server,Noa,Def,true
+10,1,21,Ariel Tormo,Ariel,Def,true
+11,1,6,Aimar Bosch,Aimar,MC,true
+12,1,8,Dani Colomer,Dani,MC,true
+13,1,14,Francis Alcaraz,Francis,MC,true
+14,1,16,Jaz Fuertes,Jaz,MC,true
+15,1,18,Mica Llopis,Mica,MC,true
+16,1,20,Kai Benavent,Kai,MC,true
+17,1,23,Taylor Ochoa,Taylor,MC,true
+18,1,7,Hodei Ramos,Hodei,Del,true
+19,1,9,Indigo Marzal,Indigo,Del,true
+20,1,10,Leslie Andrés,Leslie,Del,true
+21,1,11,Neftalí Cardona,Neftalí,Del,true
+22,1,17,Fénix Aparicio,Fénix,Del,true
+23,1,19,Rosario Gimeno,Rosario,Del,true
+24,1,22,Dana Chulvi,Dana,Del,true
