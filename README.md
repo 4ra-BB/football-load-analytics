@@ -115,20 +115,6 @@ The schema and the seed data live in `sql/`. Everything was modelled and
 populated in PostgreSQL (Supabase) and exported to CSV; the app reads the CSVs so
 that the public demo needs no credentials.
 
----
-
-
-## Architecture
-
-The calculation modules take DataFrames and return DataFrames. They never print,
-never plot, and never import Streamlit. Figure generation returns Matplotlib
-objects without displaying them, and the caller decides whether they go to the
-screen or into a PDF.
-
-This is what allows the same code to serve the interactive app and the PDF
-reports without duplication, and it is why swapping the data source from Google
-Sheets to CSV touched exactly one module.
-
 
 ---
 
