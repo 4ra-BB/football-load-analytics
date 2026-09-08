@@ -4,7 +4,7 @@ An analytics tool for football coaching staff, built to turn daily
 player-reported data into decisions about training load, injury risk and match
 preparation.
 
-**[Live demo →](https://your-app.streamlit.app)** *(interface in Spanish)*
+**[Live demo →]([https://your-app.streamlit.app](https://football-load-analytics-demo.streamlit.app/))** *(interface in Spanish)*
 
 ---
 
